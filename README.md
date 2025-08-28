@@ -1,16 +1,25 @@
-## Hi there 👋
+```markdown
+# 👋 Hello, World! I'm Abdulazeez Yusuf
 
-<!--
-**sureways739-art/sureways739-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & CEO at Sureway Integrated Technology Solutions Ltd** | Building the digital infrastructure for Africa's commerce and mobility.
 
-Here are some ideas to get you started:
+### 🚀 Our Mission
+We're solving Africa's most critical infrastructural challenges through integrated technology:
+- **Smart Fuel Africa:** Digital platform for efficient fuel access.
+- **SurePay:** Hardware-enabled instant payment confirmation.
+- **Cargo Connect:** Logistics marketplace eliminating intermediaries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies We Use
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Python
+- **Cloud:** Microsoft Azure, Google Cloud Platform
+- **AI/ML:** Exploring predictive analytics for logistics and fuel demand
+
+### 🌍 Our Vision
+To leverage technology like PAPSS and AfCFTA to create a seamless, integrated economic ecosystem across Africa.
+
+### 📫 Let's Connect
+- **Email:** sureways739@gmail.com
+- **Phone:** +2348152676740
+- **Company Website:** [Sureway Integrated Tech](https://sureways739-art.github.io/sureway-platform/)
+```
